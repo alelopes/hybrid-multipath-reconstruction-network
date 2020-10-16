@@ -21,8 +21,11 @@ All codes for reproducing training results are available in [training notebook](
 Team is composed by:
 
 Livia Rodrigues - MicLab - FEEC/Unicamp
+
 Alexandre Lopes - Institute of Computing - Unicamp
+
 Helio Pedrini - Institute of Computing - Unicamp
+
 Leticia Rittner - MicLab - FEEC/Unicamp
 
 # References
