@@ -16,6 +16,14 @@ The code is highly inspired by https://github.com/rmsouza01/CD-Deep-Cascade-MR-R
 
 All codes for reproducing training results are available in [training notebook](https://github.com/alelopes/hybrid-multipath-reconstruction-network/blob/main/notebooks/train_mc.ipynb)
 
+# Team
+
+Team is composed by:
+
+Livia Rodrigues - MicLab - FEEC/Unicamp
+Alexandre Lopes - Institute of Computing - Unicamp
+Helio Pedrini - Institute of Computing - Unicamp
+Leticia Rittner - MicLab - FEEC/Unicamp
 
 # References
 
