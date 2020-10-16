@@ -1,6 +1,6 @@
 # Hybrid Multipath Reconstruction Network
 
-This is our implementation for the M-L Unicamp Team submission team in the MC-MRRec challenge, available at: https://sites.google.com/view/calgary-campinas-dataset/mr-reconstruction-challenge?authuser=0
+This is our implementation for the M-L Unicamp Team submission team in the MC-MRRec challenge, available at https://sites.google.com/view/calgary-campinas-dataset/mr-reconstruction-challenge?authuser=0
 
 Although hybrid reconstruction methods have already been proposed in the literature [1][2], most of them use sequential models with stages connected in a single path. We propose a method that uses several networks in parallel, creating stages with individual objectives. Consequently, our method is composed of seven modules divided into sequential and parallel stages in cascade. Each module is represented by a U-net [3] based architecture.
 
@@ -12,7 +12,7 @@ Figure 1: Fluxogram of the proposed method. Highlighted in green are the main st
 
 # Code
 
-The code is hightly inspired by https://github.com/rmsouza01/CD-Deep-Cascade-MR-Reconstruction and you can consider this project as a fork of the original project. We changed some folder names and added a new file in the src folder (originally Module). Also our notebook is a modification of multi-coil training notebook available in the same repository.
+The code is highly inspired by https://github.com/rmsouza01/CD-Deep-Cascade-MR-Reconstruction and you can consider this project as a fork of the original project. We changed some folder names and added a new file in the src folder (originally Module). Also, our notebook is a modification of the multi-coil training notebook available in the same repository.
 
 All codes for reproducing training results are available in [training notebook](https://github.com/alelopes/hybrid-multipath-reconstruction-network/blob/main/notebooks/train_mc.ipynb)
 
